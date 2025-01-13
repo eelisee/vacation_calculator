@@ -1,4 +1,4 @@
-# vacation_calculator
+# Vacation Calculator for HR
 Calculator for the allocation of leave days
 
 ## Basic Functionality
